@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on various projects.
-- 📫 How to reach me email id anshugupta082002@gmail.com whats app 7635070452
+- 📫 How to reach me email id anshugupta082002@gmail.com
 
 <!---
 anshugpt/anshugpt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
